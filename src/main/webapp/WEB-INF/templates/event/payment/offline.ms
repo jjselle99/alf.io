@@ -1,1 +1,0 @@
-<div class="wMarginBottom wMarginTop text-muted">{{#i18n}}reservation-page.offline.description [{{delayForOfflinePayment}}]{{/i18n}}</div>
